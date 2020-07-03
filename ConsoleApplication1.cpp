@@ -9,6 +9,7 @@ int main()
     std::cout << "Hello World Again!\n";
     std::cout << "Test Easy_Git";
     std::cout << "Test Branch";
+    std::cout << "Test Stash";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
